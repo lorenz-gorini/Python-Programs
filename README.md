@@ -1,4 +1,4 @@
-# PythonPrograms
+PythonPrograms
 
 Two Python programs I created for an interview to prove my skills.
 They are meant to be just a draft.
